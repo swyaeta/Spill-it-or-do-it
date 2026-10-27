@@ -1,9 +1,11 @@
+/* this is for the main bg theme of the main page*/
 body{
     background-color:#FFF0F4;
     text-align: center;
     font-family: cursive;
 }
 
+/* this is to style our truth box*/
 .truth{
     font-size:50px;
     cursor: pointer;
@@ -20,7 +22,7 @@ body{
 
 }
 
-
+/* this is to style our dare box*/
 .dare{
     font-size:50px;
     cursor: pointer;
@@ -37,6 +39,7 @@ body{
 
 }
 
+/* this is for the board box where our ques come*/
 .board{
 
     position: absolute;
@@ -52,7 +55,7 @@ body{
     align-items: center;
 }
 
-
+/*to make the ques not come at once*/
 .truth-questions,
 .dare-questions {
     display: none;

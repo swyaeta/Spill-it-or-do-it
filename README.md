@@ -1,4 +1,4 @@
-# Spill it or Do it!! 💗
+# Spill it or Do it!! 
 
 Got secrets? Got courage? Let's find out.
 
@@ -9,8 +9,6 @@ Got secrets? Got courage? Let's find out.
 ##### It has two button which is clicked on individual turns and it gives random question/work
 
 #### Bottom:<img width="1550" height="758" alt="Screenshot (1770)" src="https://github.com/user-attachments/assets/4cca1340-e5e5-4e36-8418-d6554562d076" />
-
-
 
 ## Built With
 - HTML

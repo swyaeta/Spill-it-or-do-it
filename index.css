@@ -61,22 +61,22 @@ body{
     display: none;
 }
 
-
-
-
-
-
-
-
-
+/* this for the main heading*/
 h1{
     color:rgb(125, 78, 86);
     font-size:50px;
     margin-top: 100px;
 }
-
+/* this for the subheading*/
 p{
     color:#28812b;
     margin-top: -25px;
     font-size: 17px;
+}
+
+/* this for that description*/
+h2{
+    font-size:14px;
+    margin-top:580px;
+    color:#654444
 }

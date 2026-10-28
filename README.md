@@ -3,7 +3,7 @@
 Got secrets? Got courage? Let's find out.
 
 **Spill it or Do it!!** is a fun Truth or Dare website made with HTML, CSS, and JavaScript. Click the Truth or Dare button to get a random question or challenge and enjoy the game with your friends and family!!!!!!
-### Demo-Link:( https://swyaeta.github.io/Spill-it-or-do-it/ )
+### Demo-Link:(  https://swyaeta.github.io/Spill-it-or-do-it/ )
 
 ### The main page
 #### (top):<img width="1643" height="793" alt="Screenshot (1769)" src="https://github.com/user-attachments/assets/8db2aeec-7219-4618-bcc8-7cc67ab74ed6" />
